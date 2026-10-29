@@ -1,9 +1,0 @@
-uuid: f0b97890-dd20-4451-a036-23ea94dfd27e
-langcode: en
-status: true
-dependencies: {  }
-name: 'Tipo de noticia'
-vid: tipo_noticia
-description: null
-weight: 0
-new_revision: false
