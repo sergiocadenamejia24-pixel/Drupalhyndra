@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'drupal/recommended-project',
-        'pretty_version' => 'dev-feature/oficinas',
-        'version' => 'dev-feature/oficinas',
-        'reference' => 'e68c000a1840abc18d252d53a10db5e20ac4f72a',
+        'pretty_version' => 'dev-feature/s05-bienvenida-por-rol',
+        'version' => 'dev-feature/s05-bienvenida-por-rol',
+        'reference' => '3b4e08a7063c9a4440d517da542102d92d2c749f',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -370,6 +370,15 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
+        'drupal/login_destination' => array(
+            'pretty_version' => '2.0.0-beta10',
+            'version' => '2.0.0.0-beta10',
+            'reference' => '8.x-2.0-beta10',
+            'type' => 'drupal-module',
+            'install_path' => __DIR__ . '/../../web/modules/contrib/login_destination',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
         'drupal/metatag' => array(
             'pretty_version' => '2.2.1',
             'version' => '2.2.1.0',
@@ -389,9 +398,9 @@
             'dev_requirement' => false,
         ),
         'drupal/recommended-project' => array(
-            'pretty_version' => 'dev-feature/oficinas',
-            'version' => 'dev-feature/oficinas',
-            'reference' => 'e68c000a1840abc18d252d53a10db5e20ac4f72a',
+            'pretty_version' => 'dev-feature/s05-bienvenida-por-rol',
+            'version' => 'dev-feature/s05-bienvenida-por-rol',
+            'reference' => '3b4e08a7063c9a4440d517da542102d92d2c749f',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
